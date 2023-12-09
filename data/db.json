@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st Post",
+      "datetime": "January 1, 2016",
+      "body": "This is the first post"
+    },
+    {
+      "id": 2,
+      "title": "2nd Post",
+      "datetime": "February 2, 2016",
+      "body": "This is the Second post"
+    },
+    {
+      "id": 4,
+      "title": "4th Post",
+      "datetime": "April 1, 2016",
+      "body": "This is the four post"
+    },
+    {
+      "id": 5,
+      "title": "5th Post",
+      "datetime": "May 5, 2016",
+      "body": "This is the first post"
+    },
+    {
+      "id": 6,
+      "title": "Hi Everyone ",
+      "datetime": "December 09, 2023 1:49:03 PM",
+      "body": "Hello world hfdewf8ohsvhfgyihqu8u09jienbkf rhdcgsuyvgi9s8ahosidlnew, fvcundlejwkf viysdoguhpw;qnk, nefmsodhi;evsdhkcyigouhpajse;knwfj vshygouhpadjienwjfyogsduhajdkenjhfwviydscuhodanlsupc9doa;kemlnf nwiuo"
+    },
+    {
+      "id": 7,
+      "title": "Hellol World",
+      "datetime": "December 09, 2023 1:55:05 PM",
+      "body": "Iam Tamilselvan"
+    }
+  ]
+}
